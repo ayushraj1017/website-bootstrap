@@ -1,0 +1,99 @@
+body,html{
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-color{
+    background: purple;
+    color: white;
+    font-weight: 450;
+    
+}
+
+.bg-grey{
+    background: rgba(199, 199, 199, 0.726);
+    color: black;
+    font-weight: 700;
+    padding: 2rem;
+}
+
+.fa-html5{
+    color: orangered;
+}
+.fa-facebook{
+    color: rgb(73, 73, 255);
+}
+
+.fa-linkedin{
+    color: rgb(65, 65, 133);
+}
+
+.main img{
+    width: 82%;
+}
+
+.fixed-image img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.accordion img{
+    width: 60%;
+    height: auto;
+}
+
+.accordion-btn-cus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.accordion-btn-cus button{
+    background: rgb(65, 65, 133);
+    width: 100%;
+}
+
+.teams button{
+    background-color: rgb(65, 65, 133);
+    color: white;
+    
+}
+
+.teams .card{
+    border: 0.1px solid black;
+}
+
+.philosophy img{
+    margin-top: 2rem;
+    width: 100%;
+}
+
+
+.fa-amazon{
+color: orangered;
+}
+.fa-apple-pay {
+    color: rgb(102, 102, 102);
+}
+.fa-cc-visa {
+    color: slateblue;
+}
+.fa-ebay {
+    color: teal;
+}
+.fa-github-alt {
+    color: rgb(149, 149, 255);
+}
+
+.footer h2,h3{
+    color: white;
+}
+
+.footer hr{
+    color: white;
+}
